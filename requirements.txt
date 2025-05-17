@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-mistralai
+langchain-openai
+langsmith
+mitreattack-python
+openai
+pandas
+python-dotenv
+setuptools
+streamlit
